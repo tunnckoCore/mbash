@@ -1,0 +1,11 @@
+# @file robots.txt
+# @brief MartonBash Campaign
+# @author The MartonBashDevelopment Team
+# @version 0.2d
+# @copyright MIT License (http://opensource.org/licenses/MIT)
+#############################################################
+
+User-agent: *
+Disallow: /public/template/cse/assets/css
+Disallow: /public/template/cse/assets/images
+Disallow: /public/template/cse/assets/js

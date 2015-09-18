@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+BGTIME	index.php	56;"	variable
+PER_PAGE	index.php	53;"	variable
+VIHDC_TABLE	index.php	12;"	define
+k	confirmDelete.php	18;"	variable
+k	edit.php	16;"	variable
+k	index.php	40;"	variable
+k	viewArticle.php	10;"	variable
+key	index.php	50;"	variable
+limit	index.php	83;"	variable
+limit	viewArticle.php	28;"	variable
+maxrows	index.php	38;"	variable
+newsMax	index.php	52;"	variable
+newsSEO	edit.php	18;"	variable
+newsSEOurl	edit.php	17;"	variable
+numrows	index.php	20;"	variable
+paging	index.php	121;"	variable
+query	index.php	17;"	variable
+r	index.php	88;"	variable
+r	viewArticle.php	33;"	variable
+result	index.php	18;"	variable
+result	index.php	28;"	variable
+result	index.php	32;"	variable
+row	index.php	19;"	variable
+row	index.php	29;"	variable
+tags	index.php	60;"	variable
+tags	viewArticle.php	12;"	variable
+text	index.php	75;"	variable
+timeLine	index.php	59;"	variable
+uniques	index.php	30;"	variable

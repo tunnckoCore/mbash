@@ -1,0 +1,48 @@
+
+							<table>
+									<colgroup>
+										<col style="width: 20%;" />
+										<col style="width: 40%;" />
+										<col style="width: 40%;" />
+									</colgroup>
+									<tr>
+										<td class="stage" style="width: 150px;">Admin Username: </td>
+										<td class="stage" style="width: 150px;"><input class="tbox" id="server" name="MB_ADMIN_USERNAME" size="40"  maxlength="40" type="text" /></td>
+										<td class="stage" style="width: 150px;"><div class="hint">
+										The MySQL server you would like MartonBash to use. It can also include a port number. e.g. hostname:port or a path to a local socket e.g. ':/path/to/socket' for the localhost.
+										</div></td>
+									</tr>
+									<tr>
+										<td class="stage" style="width: 150px;">Admin Display name: </td>
+										<td class="stage" style="width: 150px;"><input class="tbox" id="server" name="MB_ADMIN_DISPLAYNAME" size="50" maxlength="50" type="text" /></td>
+										<td class="stage" style="width: 150px;"><div class="hint">
+										The MySQL server you would like MartonBash to use. It can also include a port number. e.g. hostname:port or a path to a local socket e.g. ':/path/to/socket' for the localhost.
+										</div></td>
+									</tr>
+									<tr>
+										<td class="stage" style="width: 150px;">Admin Password: </td>
+										<td class="stage" style="width: 150px;"><input class="tbox" id="server" name="MB_ADMIN_PASSWORD" size="200" maxlength="200" type="text" /></td>
+										<td class="stage" style="width: 150px;"><div class="hint">
+										The MySQL server you would like MartonBash to use. It can also include a port number. e.g. hostname:port or a path to a local socket e.g. ':/path/to/socket' for the localhost.
+										</div></td>
+									</tr>
+									<tr>
+										<td class="stage" style="width: 150px;">Confirm Password: </td>
+										<td class="stage" style="width: 150px;"><input class="tbox" id="server" name="MB_ADMIN_CONFIRM" size="200" maxlength="200" type="text" /></td>
+										<td class="stage" style="width: 150px;"><div class="hint">
+										The MySQL server you would like MartonBash to use. It can also include a port number. e.g. hostname:port or a path to a local socket e.g. ':/path/to/socket' for the localhost.
+										</div></td>
+									</tr>
+									<tr>
+										<td class="stage" style="width: 150px;">Admin Email: </td>
+										<td class="stage" style="width: 150px;"><input class="tbox" id="server" name="MB_ADMIN_EMAIL" size="200" maxlength="200" type="text" /></td>
+										<td class="stage" style="width: 150px;"><div class="hint">
+										The MySQL server you would like MartonBash to use. It can also include a port number. e.g. hostname:port or a path to a local socket e.g. ':/path/to/socket' for the localhost.
+										</div></td>
+									</tr>
+							</table>
+							<div class="navigation">
+								<input type="hidden" name="step" value="2" />
+								<input type="submit" id="submit" class="button" name="finishStepOne" value="Next (Step 1)"/>
+								<input type="submit" id="submit" class="button" name="finishStepTwo" value="Next (Step 3)"/>
+							</div>
